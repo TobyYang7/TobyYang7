@@ -1,13 +1,13 @@
 
 ## Description
 
-### 🔭 I’m currently studying in CUHKSZ, year 3, majoring in Computer Science and Engineering 
+- 🔭 I’m currently studying in CUHKSZ, year 3, majoring in Computer Science and Engineering 
 
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-### 📫 How to reach me: [yuzheyang@link.cuhk.edu.cn](mailto:yuzheyang@link.cuhk.edu.cn) or [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
+- 📫 How to reach me: [yuzheyang@link.cuhk.edu.cn](mailto:yuzheyang@link.cuhk.edu.cn) or [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
