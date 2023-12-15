@@ -1,4 +1,4 @@
-<img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
+<img width="400px" style="margin: 5px 5px 10px 10px; border-radius: 15px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
 
 ## Description
 
