@@ -1,6 +1,10 @@
 <!-- <img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="pusheencode-gif" src="https://raw.githubusercontent.com/TobyYang7/TobyYang7/main/assets/giphy.gif" /> -->
 
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094"></a></p>
+<!-- <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094"></a></p> -->
+
+<div style="text-align: right">
+    <img src="assets/giphy.gif" alt="Assets GIF" />
+</div>
 
 ## Description
 
