@@ -1,7 +1,3 @@
-<!-- <img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="pusheencode-gif" src="https://raw.githubusercontent.com/TobyYang7/TobyYang7/main/assets/giphy.gif" /> -->
-
-<!-- <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094"></a></p> -->
-
 <img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
 
 ## Description
@@ -32,3 +28,4 @@
 ## Personal Photograph Homepage
 [![Unsplash](https://img.shields.io/badge/-Unsplash-333333?style=flat&logo=unsplash)](https://unsplash.com/@tobyyang)
 
+<img width="400px" align="right" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/c5a4a833-7549-460e-bfe8-265be8672cfa.svg" />
