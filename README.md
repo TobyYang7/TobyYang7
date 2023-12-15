@@ -31,4 +31,4 @@
 
 ## All Time Coding Activity
 
-<img style="margin-left: -5px;" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/8d350b1d-cd27-47c3-977d-6369b4c361e3.svg" />
+<img style="margin: 5px 5px 10px 10px;" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/8d350b1d-cd27-47c3-977d-6369b4c361e3.svg" />
