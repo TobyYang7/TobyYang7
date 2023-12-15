@@ -1,7 +1,5 @@
 <img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
 
-<img width="400px" align="right" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/c5a4a833-7549-460e-bfe8-265be8672cfa.svg" />
-
 ## Description
 
 - 🔭 I’m currently studying in CUHKSZ, year 3, majoring in Computer Science and Engineering 
@@ -26,6 +24,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
 
+<img width="400px" align="right" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/c5a4a833-7549-460e-bfe8-265be8672cfa.svg" />
 
 ## Personal Photograph Homepage
 [![Unsplash](https://img.shields.io/badge/-Unsplash-333333?style=flat&logo=unsplash)](https://unsplash.com/@tobyyang)
