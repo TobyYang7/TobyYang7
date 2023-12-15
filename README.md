@@ -2,9 +2,7 @@
 
 <!-- <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094"></a></p> -->
 
-<div style="text-align: right">
-    <img src="assets/giphy.gif" alt="Assets GIF" />
-</div>
+<img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
 
 ## Description
 
