@@ -1,3 +1,6 @@
+<img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="pusheencode-gif" src="https://raw.githubusercontent.com/TobyYang7/TobyYang7/main/assets/giphy.gif" />
+
+
 
 ## Description
 
