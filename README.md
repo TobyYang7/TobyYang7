@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying in CUHKSZ, year 3, majoring in Computer Science and Engineering 
 
-<!-- - 🌱 I’m currently learning ... -->
+- 🌱 I’m currently learning: GCN, NLP, Pytorch
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -31,4 +31,4 @@
 
 ## All Time Coding Activity
 
-<img src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/8d350b1d-cd27-47c3-977d-6369b4c361e3.svg" />
+<img style="margin-left: -5px;" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/8d350b1d-cd27-47c3-977d-6369b4c361e3.svg" />
