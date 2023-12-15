@@ -26,7 +26,8 @@
 
 <img width="400px" align="right" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/c5a4a833-7549-460e-bfe8-265be8672cfa.svg" />
 
-## Personal Photograph Homepage
+## Homepage
+[![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle)](https://www.kaggle.com/tobyyang7)
 [![Unsplash](https://img.shields.io/badge/-Unsplash-333333?style=flat&logo=unsplash)](https://unsplash.com/@tobyyang)
 
 ## Last Year Coding Activity
