@@ -1,4 +1,4 @@
-<img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
+<img width="400px" style="margin: 5px 5px 10px 10px; border-radius: 15px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
 
 ## Description
 
@@ -8,7 +8,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [yuzheyang@link.cuhk.edu.cn](mailto:yuzheyang@link.cuhk.edu.cn) or [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
+- 📫 How to reach me: [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
@@ -26,9 +26,12 @@
 
 <img width="400px" align="right" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/c5a4a833-7549-460e-bfe8-265be8672cfa.svg" />
 
-## Personal Photograph Homepage
+## Homepage
+[![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle)](https://www.kaggle.com/tobyyang7)
 [![Unsplash](https://img.shields.io/badge/-Unsplash-333333?style=flat&logo=unsplash)](https://unsplash.com/@tobyyang)
 
-## All Time Coding Activity
+## Last Year Coding Activity
+
+<img width="400px" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/4fcca31e-c596-4844-b8c9-d5ad9d700275.svg" />
 
 <img style="margin: 5px 5px 10px 10px;" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/8d350b1d-cd27-47c3-977d-6369b4c361e3.svg" />
