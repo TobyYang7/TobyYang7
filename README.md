@@ -33,5 +33,3 @@
 ## Last Year Coding Activity
 
 <img width="400px" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/4fcca31e-c596-4844-b8c9-d5ad9d700275.svg" />
-
-<img style="margin: 5px 5px 10px 10px;" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/8d350b1d-cd27-47c3-977d-6369b4c361e3.svg" />
