@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying in CUHKSZ, year 3, majoring in Computer Science and Engineering 
 
-- 🌱 I’m currently learning: GCN, NLP, Pytorch
+- 🌱 I’m currently learning: GCN, NLP, LLM, PyTorch
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
