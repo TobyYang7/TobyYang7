@@ -1,8 +1,8 @@
 <img width="400px" style="margin: 5px 5px 10px 10px; border-radius: 15px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
 
-## Description
+### Description
 
-- 🔭 I’m currently studying in CUHKSZ, year 3, majoring in Computer Science and Engineering 
+- 🔭 I’m currently 3rd-year ug in CUHKSZ, majoring in CSE
 
 - 🌱 I’m currently learning: GCN, NLP, LLM, PyTorch
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -12,7 +12,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-## Tech Stack
+### Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
@@ -26,10 +26,10 @@
 
 <img width="400px" align="right" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/c5a4a833-7549-460e-bfe8-265be8672cfa.svg" />
 
-## Homepage
+### Homepage
 [![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle)](https://www.kaggle.com/tobyyang7)
 [![Unsplash](https://img.shields.io/badge/-Unsplash-333333?style=flat&logo=unsplash)](https://unsplash.com/@tobyyang)
 
-## Last Year Coding Activity
+### Last Year Coding Activity
 
 <img width="400px" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/4fcca31e-c596-4844-b8c9-d5ad9d700275.svg" />
