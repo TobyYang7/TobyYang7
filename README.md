@@ -2,13 +2,14 @@
 
 ### Description
 
-- 🔭 I’m currently senior student in CUHKSZ, majoring in CSE
+📚 I’m currently senior student in CUHKSZ, majoring in CSE
 
-- 🌱 My research interest is about: GNN, Spatio-temporal Data Mining, LLM, MLLM
+💡 My research interest is about: GNN, Data Mining, LLM, MLLM
+
+📫 How to reach me: [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
