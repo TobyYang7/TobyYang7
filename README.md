@@ -2,9 +2,9 @@
 
 ### Description
 
-- 🔭 I’m currently 3rd-year ug in CUHKSZ, majoring in CSE
+- 🔭 I’m currently senior student in CUHKSZ, majoring in CSE
 
-- 🌱 I’m currently learning: GCN, NLP, LLM, PyTorch
+- 🌱 My research interest is about: GNN, Spatio-temporal Data Mining, LLM, MLLM
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
