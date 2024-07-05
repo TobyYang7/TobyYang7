@@ -14,8 +14,6 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TobyYang7&show_icons=true&theme=transparent)
-
 ### Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
