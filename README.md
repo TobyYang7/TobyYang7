@@ -1,5 +1,6 @@
 <img width="400px" style="margin: 5px 5px 10px 10px; border-radius: 15px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
 
+![](https://komarev.com/ghpvc/?username=TobyYang7)
 ### Description
 
 📚 I’m currently senior student in CUHKSZ, majoring in CSE
@@ -12,6 +13,8 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TobyYang7&show_icons=true&theme=transparent)
 
 ### Tech Stack
 
