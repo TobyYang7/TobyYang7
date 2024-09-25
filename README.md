@@ -3,7 +3,7 @@
 
 I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering (CSE)**. Here's a little about me:
 
-- 🎓 **Education**: Senior Student, CUHK-Shenzhen
+- 🎓 **Education**: 2021-2025, School of Data Science | CUHK-Shenzhen
 - 💡 **Research Interests**: GNN, Data Mining, LLM, MLLM
 - 📫 **Reach me**: [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
 
@@ -27,6 +27,7 @@ I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TobyYang7&theme=default"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TobyYang7&theme=dracula"/>
 </p>
+
 
