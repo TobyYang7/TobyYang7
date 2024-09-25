@@ -1,7 +1,5 @@
-
+## 👋 Hi there, I'm Toby Yang! 
 ![Profile Views](https://komarev.com/ghpvc/?username=TobyYang7&color=blue&style=flat-square)
-
-## 👋 Hi there, I'm Toby Yang!
 
 I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering (CSE)**. Here's a little about me:
 
@@ -9,10 +7,7 @@ I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and 
 - 💡 **Research Interests**: GNN, Data Mining, LLM, MLLM
 - 📫 **Reach me**: [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
 
-<img width="400px" style="margin: 5px 5px 10px 10px; border-radius: 15px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
-
 ---
-
 ### 🔧 Technologies & Tools I Use
 
 #### Languages & Frameworks
