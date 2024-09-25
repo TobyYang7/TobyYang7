@@ -1,5 +1,4 @@
-## 👋 Hi there, I'm Toby Yang! 
-![Profile Views](https://komarev.com/ghpvc/?username=TobyYang7&color=blue&style=flat-square)
+## 👋 Hi there, I'm Toby Yang!   ![Profile Views](https://komarev.com/ghpvc/?username=TobyYang7&color=blue&style=flat-square)
 
 I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering (CSE)**. Here's a little about me:
 
