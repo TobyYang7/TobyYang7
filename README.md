@@ -27,9 +27,9 @@ I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and 
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TobyYang7&theme=dracula"/>
-</p>
+</p> -->
 
 
 [![Contributions in 3D](/profile-3d-contrib/profile-gitblock.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
