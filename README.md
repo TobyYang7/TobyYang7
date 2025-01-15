@@ -6,7 +6,7 @@ I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and 
 
 - 🎓 **Education**: 2021-2025, School of Data Science | CUHK-Shenzhen
 - 💡 **Research Interests**: GNN, Data Mining, LLM, MLLM
-- 📫 **Reach me**: [tobyyang7@foxmail.com](mailto:tobyyang7@foxmail.com)
+- 📫 **Reach me**: [tobyyang7@outlook.com](mailto:tobyyang7@outlook.com)
 
 ---
 ### 🔧 Technologies & Tools I Use
