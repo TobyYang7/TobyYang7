@@ -1,11 +1,11 @@
-## 👋 Hi there, I'm Toby Yang!   
+## 👋 Hi there, I'm Yuzhe (Toby) Yang!   
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TobyYang7&color=blue&style=flat-square)
 
 I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering (CSE)**. Here's a little about me:
 
-- 🎓 **Education**: 2021-2025, School of Data Science | CUHK-Shenzhen
-- 💡 **Research Interests**: GNN, Data Mining, LLM, MLLM
+- 🎓 **Education**: 2021-2025, School of Data Science | CUHK-Shenzhen, China
+- 💡 **Research Interests**: Human-AI Interaction, Social Simulation, Trustworthy NLP
 - 📫 **Reach me**: [tobyyang7@outlook.com](mailto:tobyyang7@outlook.com)
 
 ---
