@@ -32,4 +32,4 @@ I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and 
 </p> -->
 
 
-[![Contributions in 3D](/profile-3d-contrib/profile-gitblock.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
+[![Contributions in 3D](/profile-3d-contrib/profile-season-animate.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
