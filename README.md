@@ -2,26 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TobyYang7&color=blue&style=flat-square)
 
-I’m a senior student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering (CSE)**. Here's a little about me:
+I’m a final-year student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering (CSE)**. Here's a little about me:
 
 - 🎓 **Education**: 2021-2025, School of Data Science | CUHK-Shenzhen, China
 - 💡 **Research Interests**: Human-AI Interaction, Social Simulation, Trustworthy NLP
-- 📫 **Reach me**: [tobyyang7@outlook.com](mailto:tobyyang7@outlook.com)
+- 📫 **Reach me**: [tobyyang7@outlook.com](mailto:tobyyang7@outlook.com), [yuzheyang@link.cuhk.edu.cn](mailto:yuzheyang@link.cuhk.edu.cn)
 
----
-### 🔧 Technologies & Tools I Use
-
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-#### Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Mac OS](https://img.shields.io/badge/-Mac%20OS-333333?style=flat-square&logo=apple&logoColor=white)
+You can find more information about me on my [Homepage](https://tobyyang7.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=Oj296F8AAAAJ). 
 
 ---
 
