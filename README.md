@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TobyYang7&color=blue&style=flat-square)
 
-I’m a final-year student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering (CSE)**. Here's a little about me:
+I’m a final-year student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering**.
 
 - 🎓 **Education**: 2021-2025, School of Data Science | CUHK-Shenzhen, China
 - 💡 **Research Interests**: Human-AI Interaction, Social Simulation, Trustworthy NLP
