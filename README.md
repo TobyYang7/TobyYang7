@@ -8,7 +8,7 @@ I’m a final-year student at **CUHK-Shenzhen**, majoring in **Computer Science 
 - 💡 **Research Interests**: Human-AI Interaction, Social Simulation, Trustworthy NLP
 - 📫 **Reach me**: [tobyyang7@outlook.com](mailto:tobyyang7@outlook.com), [yuzheyang@link.cuhk.edu.cn](mailto:yuzheyang@link.cuhk.edu.cn)
 
-You can find more information about me on my [Homepage](https://tobyyang7.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=Oj296F8AAAAJ). 
+You can find more information about me on my [Homepage](https://yuzheyang.com) or [Google Scholar](https://scholar.google.com/citations?user=Oj296F8AAAAJ). 
 
 ---
 
