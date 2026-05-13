@@ -2,10 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TobyYang7&color=blue&style=flat-square)
 
-I’m a final-year undergrad student at **CUHK-Shenzhen**, majoring in **Computer Science and Engineering**.
-
-- 💡 **Research Interests**: Human-AI Interaction, Social NLP, Trustworthy NLP
-- 📫 **Reach me**: [tobyyang7@outlook.com](mailto:tobyyang7@outlook.com), [yuzheyang@link.cuhk.edu.cn](mailto:yuzheyang@link.cuhk.edu.cn)
+- 💡 **Research Interests**: Human-AI Interaction, Social NLP, Agent
+- 📫 **Contact**: [tobyyang7@outlook.com](mailto:tobyyang7@outlook.com), [yuzheyang@ucsb.edu](mailto:yuzheyang@ucsb.edu)
 
 You can find more information about me on my [Homepage](https://yuzheyang.com) or [Google Scholar](https://scholar.google.com/citations?user=Oj296F8AAAAJ). 
 
